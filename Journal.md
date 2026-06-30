@@ -5,6 +5,11 @@
 <p><strong>Hours of work since last journal: 0<br>
 Hours of work in total: 0</strong></p><br><br>
 <h2>Finished schematic</h2><br>
-<p>Started and finished the schematic for the board. Didn't take too long as it's quite a simple layout. Stuck with the idea for a 60% board although was considering adding function keys. Layers it is.</p><br>
+<p>Started and finished the schematic for the board. Didn't take too long as it's quite a simple layout. Stuck with the idea for a 60% board although was considering adding function keys. Layers it is.</p>
+
+<img width="1320" height="573" alt="JamesboardKM" src="https://github.com/user-attachments/assets/b8a9e8fb-91bd-4836-8250-c5ed99cba376" />
+
+
+<br>
 <p><strong>Hours of work since last journal: 1<br>
 Hours of work in total: 1</strong></p>
