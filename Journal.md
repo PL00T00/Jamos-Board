@@ -13,3 +13,14 @@ Hours of work in total: 0</strong></p><br><br>
 <br>
 <p><strong>Hours of work since last journal: 1<br>
 Hours of work in total: 1</strong></p>
+<br><br>
+
+<h2>Started PCB</h2><br>
+<p>Started placing components on the PCB. Again, a quite simple task but it's sort of medatative. Going to put all the keys down first then do the diodes, should be quite simple hopefully.</p>
+
+<img width="1064" height="368" alt="JamosboardPCB1" src="https://github.com/user-attachments/assets/88276780-0fc5-4f69-86ed-60dc0b8ee3d8" />
+
+<br>
+<p><strong>Hours of work since last journal: 1<br>
+Hours of work in total: 2</strong></p>
+<br><br>
