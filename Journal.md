@@ -1,7 +1,7 @@
 <h1>Journal!</h1><br><br>
 
 <h2>Started Designing</h2><br>
-<p>Started creating the design. This is a keyboard amde for my friend (Jamos) who requested clicky switches and an OLED screen. But i'm mean so he doesnt get an OLED screen</p><br>
+<p>Started creating the design. This is a keyboard made for my friend (Jamos) who requested clicky switches and an OLED screen. But i'm mean so he doesnt get an OLED screen</p><br>
 <p><strong>Hours of work since last journal: 0<br>
 Hours of work in total: 0</strong></p><br><br>
 <h2>Finished schematic</h2><br>
@@ -24,3 +24,13 @@ Hours of work in total: 1</strong></p>
 <p><strong>Hours of work since last journal: 1<br>
 Hours of work in total: 2</strong></p>
 <br><br>
+
+<h2>Finished laying the keys</h2><br>
+<p>All keys are on the PCB! I did have to do math unfortunately to figure out spacing between the larger keys but it looks pretty alright now. I'm unsure if they keys will clash, but hopefully I've done all the math correctly. Thank god for Kicads move exactly feature. </p>
+
+<img width="1428" height="610" alt="jamosboardPCB2" src="https://github.com/user-attachments/assets/f9589b34-349e-4a77-98bb-6faf534bc20b" />
+
+<br>
+<p><strong>Hours since last journal: 1.5<br>
+Hours in total: 3.5</strong>
+</p>
